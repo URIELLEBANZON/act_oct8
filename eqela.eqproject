@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed_urielle_oct8
+#
+
+projectname: wed_urielle_oct8
+vendorid: com.mycompany
+mainmodule: com.mycompany.wedurielleoct8
